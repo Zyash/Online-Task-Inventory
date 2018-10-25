@@ -1,0 +1,20 @@
+step 1:
+	name
+	address
+	state
+	city
+	
+step 2:
+	email
+	mobile
+	password
+	confirm password
+	
+ste 3:
+	upload resume
+	fresher/experienced
+	year of experience if any
+	
+step 4:
+	select security que
+	ans security que.
